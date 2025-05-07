@@ -11,8 +11,9 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=87CEEB&size=22&center=true&vCenter=true&width=550&lines=GenAI+Engineer;Microservices+Developer;Semantic+Search+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=87CEEB&size=22&center=true&vCenter=true&width=550&lines=GenAI+Enthusiast;Agentic+AI+Enthusiast;Microservices+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
+
 
 <p align="center">💬 Ask me about <strong style="color:#87ceeb;">GenAI, Semantic Search, REST APIs, Microservices, and AWS.</strong></p>
 <p align="center">📫 Reach me at <strong><a href="mailto:princejee12345@gmail.com" style="color: #87ceeb;">princejee12345@gmail.com</a></strong></p>
