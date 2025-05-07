@@ -74,10 +74,11 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
 -->
 
 
-
+<!-- Buy Me a Coffee
 <h3 align="center">☕ Support</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/princejee1013" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
+-->
