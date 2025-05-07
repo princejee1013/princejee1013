@@ -64,13 +64,14 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
 </p>
 
 
-
+<!-- Project Section
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">🚀 Featured Projects</h3>
 <ul>
   <li><strong>JetSetAI</strong> – AI-powered trip planner using React, Firebase, and Google Generative AI <a href="https://github.com/your-username/jetsetai">[GitHub]</a></li>
   <li><strong>Mercato</strong> – Pre-owned goods platform with bidding & voice search <a href="https://github.com/your-username/project-a">[GitHub]</a></li>
   <li><strong>Voting App</strong> – Real-time voting backend using Node, MongoDB <a href="https://github.com/your-username/project-b">[GitHub]</a></li>
 </ul>
+-->
 
 
 
