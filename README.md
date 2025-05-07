@@ -17,7 +17,7 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
 <p align="center">💬 Ask me about <strong style="color:#87ceeb;">GenAI, Semantic Search, REST APIs, Microservices, and AWS.</strong></p>
 <p align="center">📫 Reach me at <strong><a href="mailto:princejee12345@gmail.com" style="color: #87ceeb;">princejee12345@gmail.com</a></strong></p>
 
----
+
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">Connect with me:</h3>
 <p align="center">
@@ -26,7 +26,7 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
   </a>
 </p>
 
----
+
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">🛠️ Technologies I Work With:</h3>
 <p align="center">
@@ -41,7 +41,7 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/></a>
 </p>
 
----
+
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">📈 GitHub Stats & Analytics:</h3>
 <p align="center">
@@ -62,7 +62,7 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princejee1013&theme=github_dark" />
 </p>
 
----
+
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">🚀 Featured Projects</h3>
 <ul>
@@ -71,7 +71,7 @@ A passionate full-stack developer focused on GenAI, Semantic Search, and Scalabl
   <li><strong>Voting App</strong> – Real-time voting backend using Node, MongoDB <a href="https://github.com/your-username/project-b">[GitHub]</a></li>
 </ul>
 
----
+
 
 <h3 align="center">☕ Support</h3>
 <p align="center">
